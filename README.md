@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stuart4real
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning front end stack
-- 💞️ I’m looking to collaborate on a website
+- 💞️ I’m looking to collaborate on a website with React
 - 📫 How to reach me: stuart.feng@icloud.com
 
 <!---
