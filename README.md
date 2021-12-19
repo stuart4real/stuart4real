@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @stuart4real
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning front end stack
-- 💞️ I’m looking to collaborate on a website with React
-- 📫 How to reach me: stuart.feng@icloud.com
+- 👋 Hi, I'm Stuart
+- :mortar_board: Education: University of Toronto Computer Science Specialist (2018 - 2022)
+- :sweat_drops: Occupation: ByteDance TikTok Frontend Enginner (2022 - )
+- 📫 How to reach me: [email](stuart.feng@icloud.com)
 
 <!---
 stuart4real/stuart4real is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
